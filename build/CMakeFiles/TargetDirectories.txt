@@ -1,0 +1,3 @@
+/home/cory/Code/nifm/build/CMakeFiles/rebuild_cache.dir
+/home/cory/Code/nifm/build/CMakeFiles/edit_cache.dir
+/home/cory/Code/nifm/build/CMakeFiles/main.dir
